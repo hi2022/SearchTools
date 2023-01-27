@@ -1,4 +1,4 @@
-
+# Searchdb
 LittelOsintTools
 Search Db and a search osint tool that will go faster than grep -r optimize for Windows
 Search Email
@@ -29,7 +29,7 @@ Database
 
 https://cdn.discordapp.com/attachments/1035639167813693532/1035639395400810506/unknown.png)
 
-***
+
 (https://user-images.githubusercontent.com/97897361/184835416-a76340c1-dce6-4201-a395-3dbe98452844.gif)
 
 
