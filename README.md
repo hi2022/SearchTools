@@ -23,14 +23,14 @@ Database
 
 
 # Preview
-(https://cdn.discordapp.com/attachments/1035639167813693532/1035643104600014958/unknown.png)
+( https://cdn.discordapp.com/attachments/1035639167813693532/1035643104600014958/unknown.png )
 
 
 
-https://cdn.discordapp.com/attachments/1035639167813693532/1035639395400810506/unknown.png)
+( https://cdn.discordapp.com/attachments/1035639167813693532/1035639395400810506/unknown.png )
 
 
-(https://user-images.githubusercontent.com/97897361/184835416-a76340c1-dce6-4201-a395-3dbe98452844.gif)
+( https://user-images.githubusercontent.com/97897361/184835416-a76340c1-dce6-4201-a395-3dbe98452844.gif ) 
 
 
 `# I am not responsible for your actions
