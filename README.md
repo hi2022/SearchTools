@@ -23,7 +23,10 @@ Search Email
 - [4]-Il faudra extraire le fichier après ça lancer
 - [5]-SearchUpdate et choissisez  Ce Que Vous Voulez 
 
-
+# Credits
+SysLinks
+6x0.Az
+Kosan
 
 #Requirements
 Windows
