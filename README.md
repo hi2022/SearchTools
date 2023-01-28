@@ -16,6 +16,15 @@ Search Email
 - Après avoir fais ça un dossier searchdb.log va automatiquement s'ouvrire ou il y aura les résultat.
 -Après Cela il Vous suffit de prends une option parmis les 5 et de mettre l'info trouvez sur votre cible.
 
+# Comment L'installer
+- [1]-il vous suffit de lancer Start.bat
+- [2]-cela vous installera searchUpdate 
+- [3]-Il vous suffit D'ouvrir SearchUpdate2.7z
+- [4]-Il faudra extraire le fichier après ça lancer
+- [5]-SearchUpdate et choissisez  Ce Que Vous Voulez 
+
+
+
 #Requirements
 Windows
 Database
@@ -31,9 +40,6 @@ Database
 ( ![image](https://user-images.githubusercontent.com/97897361/215137488-b814a769-7c30-49e9-a019-61fe36b6bcc1.png)
  )
 
-
-(![image](https://user-images.githubusercontent.com/97897361/215138036-f0b478f6-77ca-45dc-b91e-ba1cc77ad40e.png)
-) 
 
 
 `# I am not responsible for your actions
