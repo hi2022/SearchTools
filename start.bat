@@ -11,7 +11,7 @@ set /p choix=  Choisis La Methode Que Tu Souhaite. :
 if %choix%==1 goto Download
 if %choix%==2 goto Exit
 :Download
-start chrome https://cdn.discordapp.com/attachments/1068635223711035544/1068636401190576128/SearchUpdate2.7z
+start chrome https://cdn.discordapp.com/attachments/1068635223711035544/1068824819782656060/SearchUpdates.7z
 exit
 goto tache Terminer
 :Exit
